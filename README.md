@@ -1,2 +1,1 @@
-# Trex-ultima-version
-Juego offline de google Trex
+# Juegos-compatibles-con-dispositivos
